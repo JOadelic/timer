@@ -14,5 +14,3 @@ const timer = function(args) {
   
 };
 timer(args);
-
-
